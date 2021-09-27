@@ -23,6 +23,7 @@ body {
 .emoji-list-item {
 	display: inline;
 	margin: 0rem 1rem;
+	cursor: pointer;
 	/* margin-left: 0; */
 }
 .app .emojis-meaning {
