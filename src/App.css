@@ -3,7 +3,13 @@
 /* font-family: 'Noto Sans', sans-serif; */
 body {
 	background: linear-gradient(to top left, #28b487, #7dd56f);
+	height: 100vh;
 }
+
+.app h1 {
+	text-align: "center";
+}
+
 .app {
 	font-family: "Noto Sans", sans-serif;
 }
@@ -20,15 +26,20 @@ body {
 	text-align: center;
 	list-style-type: none;
 }
+
 .emoji-list-item {
 	display: inline;
 	margin: 0rem 1rem;
 	cursor: pointer;
+	font-size: 3rem;
+	/* width: rem; */
 	/* margin-left: 0; */
 }
+
 .app .emojis-meaning {
 	text-align: center;
 }
+
 .app .emojis-description-header {
 	display: block;
 	text-align: center;
