@@ -5,11 +5,9 @@ body {
 	background: linear-gradient(to top left, #28b487, #7dd56f);
 	height: 100vh;
 }
-
 .app h1 {
-	text-align: "center";
+	text-align: center;
 }
-
 .app {
 	font-family: "Noto Sans", sans-serif;
 }
