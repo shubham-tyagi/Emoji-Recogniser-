@@ -23,7 +23,7 @@ function App() {
 
 	const onInput = function (event) {
 		let item = event.target.value;
-		if (emojiDictionary[item] != undefined) setMeaning(emojiDictionary[item]);
+		if (emojiDictionary[item] !== undefined) setMeaning(emojiDictionary[item]);
 		else setMeaning("We dont have this in our dictionary");
 	};
 
