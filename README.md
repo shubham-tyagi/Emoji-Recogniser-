@@ -1,6 +1,4 @@
-# Emoji-Recogniser 
-# Do you know me CLI App
-
+# Emoji-Recogniser
 - A simple emoticon recogniser web app wherein if you select or input a emoticon it will tell you its meaning.
 
 # Screenshot
